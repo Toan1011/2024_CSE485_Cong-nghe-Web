@@ -1,0 +1,31 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.course {
+    width: calc(33.33% - 50px);
+    display: flex;
+    flex-direction: column;
+
+}
+
+.course h2 {
+    color: #333;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.course p {
+    color: #666;
+    flex-grow: 1;
+    text-align: justify; /*căn đều các dong trong mô ta*/
+    margin: 10px;
+}
+
+.course-image {
+    width: 100px;
+    height: auto;
+}
+
