@@ -1,0 +1,23 @@
+img {
+    margin-left: 150px;
+    max-width: 353px;
+    max-height: 200px;
+}
+
+.main {
+    display: flex;
+}
+
+.product {
+    margin-right: 50px;
+}
+.pagination a{
+    margin-right: 10px;
+    
+}
+.pagination{
+    margin-left: 150px;
+}
+p{
+    margin-left: 150px;
+}

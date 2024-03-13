@@ -1,0 +1,11 @@
+.input-group{
+        position: relative;
+        display: flex;
+        flex-wrap: wrap;
+        align-items: stretch;
+        width: 100%;
+        margin-left: 550px;
+}
+.btn-group me-2 .btn btn-outline-secondary1{
+    width: 150px;
+}
